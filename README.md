@@ -79,3 +79,14 @@ leadbot/
 | `/start` | Главное меню | Всем |
 | `/cancel` | Отмена заполнения анкеты | Всем |
 | `/list` | Последние 10 заявок | Только админу |
+
+## 📸 Screenshots
+
+### Main menu
+![LeadBot main menu](screenshots/main-menu.png)
+
+### Rental application
+![Rental application form](screenshots/application-form.png)
+
+### Admin notification
+![Admin notification](screenshots/admin-notification.png)
